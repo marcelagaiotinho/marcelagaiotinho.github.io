@@ -6,7 +6,7 @@
     border: 0px solid rgb(139, 105, 60);
     text-align: center;
     font-size: medium;
-    color: rgb(33, 3, 3);
+    color: rgb(4, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
     .rodape{
@@ -32,7 +32,7 @@
     .class5{
         background-color: rgb(193, 186, 145);
         color: rgb(135, 0, 0);
-        border: 0px solid black;
+        border: 0px solid rgb(0, 0, 0);
         padding: 70px;
       
       
@@ -53,4 +53,8 @@
       background: url (portifolioimagem.png);
       background-repeat: no-repeat;
       background-size: cover;  
+    }
+
+    img{
+      border-radius: 50%;
     }
