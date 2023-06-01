@@ -1,0 +1,56 @@
+
+
+.corpo{
+
+    background-color: rgb(252, 246, 216);
+    border: 0px solid rgb(139, 105, 60);
+    text-align: center;
+    font-size: medium;
+    color: rgb(33, 3, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    .rodape{
+        background-color: blueviolet;
+        text-align: center;
+        font-color: rgb(117, 155, 128);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .a{
+        color:antiquewhite
+    }
+    footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100;
+        background-color: brown (225,255, 255);
+        color: bisque;
+        text-align: left;
+    }
+
+    .class5{
+        background-color: rgb(193, 186, 145);
+        color: rgb(135, 0, 0);
+        border: 0px solid black;
+        padding: 70px;
+      
+      
+      }
+      a{
+        text-decoration-line: none;
+        color: rgb(12, 11, 11);
+      }
+      .td{
+        background-color:rgb(255, 252, 229);
+        text-decoration: none;
+        color: rgb(117, 34, 34);
+      border: 2px solid rgb(156, 139, 56);
+      margin: 20px;
+      padding: 20px;
+      }
+      body{
+      background: url (portifolioimagem.png);
+      background-repeat: no-repeat;
+      background-size: cover;  
+    }
